@@ -1,3 +1,5 @@
+#Author: Colby Ackerman
+
 #!/bin/bash
 
 inExtension="null"
